@@ -5,5 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="home_user">Ingrese Usuario</string>
+    <string name="home_pass">Ingrese su contraseña</string>
+
 
 </resources>
